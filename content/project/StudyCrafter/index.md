@@ -3,10 +3,10 @@
 title = "StudyCrafter"
 
 # Date this page was created.
-date = 2016-04-27T00:00:00
+date = 2019-04-10T00:00:00
 
 # Project summary to display on homepage.
-summary = "An example of using the in-built project page."
+summary = "A free playful platform where users can create, play, and share research projects to understand human behavior."
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
@@ -31,7 +31,8 @@ url_code = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-links = [{icon_pack = "fab", icon="youtube", name="Demo", url = "https://www.youtube.com/watch?v=EtaPycMDfao"}]
+links = [{icon_pack = "fab", icon="youtube", name="Demo", url = "https://www.youtube.com/watch?v=EtaPycMDfao"},
+         {icon_pack = "fab", icon="website", name="Website", url = "https://www.youtube.com/watch?v=EtaPycMDfao"}]
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your project's folder. 
@@ -45,11 +46,12 @@ links = [{icon_pack = "fab", icon="youtube", name="Demo", url = "https://www.you
 
 +++
 
-{{< figure src="studycrafter1.png" title="Studycrafter Workspace" >}}   {{< youtube EtaPycMDfao >}}
-
+<!-- {{< figure src="studycrafter1.png" title="Studycrafter Workspace" >}}   -->
 
 
 StudyCrafter is a playful platform where you can create, play and share research projects to study human behavior. Since 2017, I've been contributing to the research and development of this platform as well as efforts on back-end development and database design for this project. 
+
+ {{< youtube EtaPycMDfao >}}
 
 
 

@@ -6,7 +6,7 @@ title = "Gravity Bender"
 date = 2019-04-09T00:00:00
 
 # Project summary to display on homepage.
-summary = "A fun game of solving puzzles by bending gravity `external_link`."
+summary = "A fun game of solving puzzles by bending gravity."
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
