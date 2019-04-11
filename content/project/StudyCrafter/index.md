@@ -32,7 +32,7 @@ url_code = ""
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
 links = [{icon_pack = "fab", icon="youtube", name="Demo", url = "https://www.youtube.com/watch?v=EtaPycMDfao"},
-         {icon_pack = "fab", icon="website", name="Website", url = "https://www.youtube.com/watch?v=EtaPycMDfao"}]
+         {icon_pack = "fab", icon="website", name="Website", url = "https://studycrafter.com/"}]
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your project's folder. 
@@ -49,7 +49,9 @@ links = [{icon_pack = "fab", icon="youtube", name="Demo", url = "https://www.you
 <!-- {{< figure src="studycrafter1.png" title="Studycrafter Workspace" >}}   -->
 
 
-StudyCrafter is a playful platform where you can create, play and share research projects to study human behavior. Since 2017, I've been contributing to the research and development of this platform as well as efforts on back-end development and database design for this project. 
+StudyCrafter is a playful platform where you can create, play and share research projects to study human behavior and decision-making. I'm part of the team contributing to the research and development of this platform as well as efforts on back-end development and database design for this project. 
+
+The video below demonstrates the use of the platform.
 
  {{< youtube EtaPycMDfao >}}
 

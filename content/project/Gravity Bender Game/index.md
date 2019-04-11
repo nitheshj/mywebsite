@@ -10,7 +10,7 @@ summary = "A fun game of solving puzzles by bending gravity."
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["Game Design"]
+tags = ["Game Design", "Games"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = "https://nitheshj.github.io/gravity/index.html"
