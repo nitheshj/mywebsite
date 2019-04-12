@@ -6,7 +6,7 @@ title = "Measuring Individual Differences and Adaptability"
 date = 2019-04-10T00:00:00
 
 # Project summary to display on homepage.
-summary = "A novel methodology to understand factors influencing team performance using ARGs ."
+summary = "A novel methodology to understand factors influencing team performance using Alternate Realty Games (ARGs) ."
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
