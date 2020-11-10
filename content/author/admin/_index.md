@@ -73,10 +73,10 @@ user_groups = ["Researchers", "Visitors"]
   icon_pack = "fab"
   link = "https://twitter.com/OptimallyOpt"
 
-#[[social]]
- # icon = "google-scholar"
-  #icon_pack = "ai"
-  #link = "https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ"
+[[social]]
+  icon = "google-scholar"
+  icon_pack = "ai"
+  link = "https://scholar.google.com/citations?user=ol8FJoAAAAAJ&hl=en"
 
 
 # Link to a PDF of your resume/CV from the About widget.
